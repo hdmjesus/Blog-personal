@@ -44,7 +44,7 @@
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
         min-height: 100vh;
-        background-image: url("../\ Assets/img/4.jpg");
+        background-image: url("../img/4.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
